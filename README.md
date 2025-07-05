@@ -17,9 +17,9 @@
 
 | Project       | Description                                                                 | Stack                             |
 |---------------|-----------------------------------------------------------------------------|-----------------------------------|
-| <a href="https://siriussoft.uz" target="_blank">SiriusSoft.uz</a> | Company website for Sirius Innovation                                  | Laravel                          |
-| <a href="https://faith.uz" target="_blank">Faith.uz</a>         | Automation platform for education centers                              | Laravel                          |
-| <a href="https://payday.uz" target="_blank">Payday.uz</a>       | Face-recognition based attendance system                               | Laravel + React.js               |
+| [SiriusSoft.uz](https://siriussoft.uz) | Company website for Sirius Innovation                                  | Laravel                          |
+| [Faith.uz](https://faith.uz)         | Automation platform for education centers                              | Laravel                          |
+| [Payday.uz](https://payday.uz) | Face-recognition based attendance system                               | Laravel + React.js               |
 
 
 ---
