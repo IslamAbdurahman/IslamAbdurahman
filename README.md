@@ -126,5 +126,5 @@ _Fergana, Uzbekistan | Oct 2018 – Sep 2019_
 
 ## 🔗 Let's Connect
 
-- [LinkedIn](#) *(Add your LinkedIn link here)*  
+
 - [Personal Website](http://cv.faith.uz)
