@@ -35,7 +35,7 @@ _Fergana, Uzbekistan | Oct 2018 – Sep 2019_
 |---------------|-----------------------------------------------------------------------------|-----------------------------------|
 | [SiriusSoft.uz](https://siriussoft.uz) | Company website for Sirius Innovation                                  | Laravel                          |
 | [Faith.uz](https://faith.uz)         | Automation platform for education centers                              | Laravel                          |
-| [Payday.uz](https://payday.uz) | Face-recognition based attendance system                               | Laravel + React.js               |
+| [Payday.uz](https://panel.payday.uz) | Face-recognition based attendance system                               | Laravel + React.js               |
 
 ---
 
@@ -46,6 +46,21 @@ _Fergana, Uzbekistan | Oct 2018 – Sep 2019_
 - **Databases:** MySQL / MariaDB  
 - **DevOps & Tools:** Git, GitHub, GitLab, Ubuntu Server, Microsoft Office  
 - **Bots:** Telegram Bot Development  
+
+---
+
+## 🧠 Skills
+
+- Ubuntu Linux & Ubuntu Server  
+- Laravel PHP Framework  
+- MySQL / MariaDB  
+- React.js / Redux  
+- React Native  
+- Vue.js (v3)  
+- Telegram Bot API  
+- GitHub, GitLab  
+- DevOps Tools (CI/CD, Linux admin basics, etc.)  
+- Microsoft Office  
 
 ---
 
