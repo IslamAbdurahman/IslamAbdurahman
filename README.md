@@ -13,6 +13,7 @@
   <img src="https://assets.ubuntu.com/v1/29985a98-ubuntu-logo32.png" alt="ubuntu" width="40" height="40"/>
 </a>
   <a href="https://linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
+  
   <!-- Backend -->
   <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
   <a href="https://mariadb.org/"><img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/></a>
