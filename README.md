@@ -19,7 +19,7 @@
 |---------------|-----------------------------------------------------------------------------|-----------------------------------|
 | [SiriusSoft.uz](https://siriussoft.uz) | Company website for Sirius Innovation                                  | Laravel                          |
 | [Faith.uz](https://faith.uz)         | Automation platform for education centers                              | Laravel                          |
-| [Payday.uz](https://panel.payday.uz) | Face-recognition based attendance system                               | Laravel + React.js               |
+| [Payday.uz](https://payday.uz) | Face-recognition based attendance system                               | Laravel + React.js               |
 
 
 
