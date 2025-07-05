@@ -123,8 +123,3 @@ _Fergana, Uzbekistan | Oct 2018 – Sep 2019_
 ![Islombek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=islombekdev&show_icons=true&theme=radical)
 
 ---
-
-## 🔗 Let's Connect
-
-
-- [Personal Website](http://cv.faith.uz)
