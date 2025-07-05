@@ -39,7 +39,6 @@
   <a href="https://linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
   <a href="https://www.microsoft.com/en-us/microsoft-365/microsoft-office"><img src="https://img.icons8.com/color/48/000000/microsoft-office-2019.png" alt="microsoft office" width="40" height="40"/></a>
   <a href="https://core.telegram.org/bots"><img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png" alt="telegram bot" width="40" height="40"/></a>
-  <a href="#"><img src="https://img.icons8.com/external-flat-juicy-fish/60/external-devops-web-development-flat-flat-juicy-fish.png" alt="devops" width="40" height="40"/></a>
 </p>
 
 
