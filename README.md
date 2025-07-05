@@ -12,6 +12,17 @@
 
 ---
 
+
+## 💡 Projects
+
+| Project       | Description                                                                 | Stack                             |
+|---------------|-----------------------------------------------------------------------------|-----------------------------------|
+| [SiriusSoft.uz](https://siriussoft.uz) | Company website for Sirius Innovation                                  | Laravel                          |
+| [Faith.uz](https://faith.uz)         | Automation platform for education centers                              | Laravel                          |
+| [Payday.uz](https://panel.payday.uz) | Face-recognition based attendance system                               | Laravel + React.js               |
+
+
+
 ---
 
 ## 💼 Work Experience
@@ -34,16 +45,6 @@ _Fergana, Uzbekistan | Oct 2018 – Sep 2019_
 
 - 🎓 **Fergana State University**  
   _BA in Teaching English as a Second/Foreign Language | 2018 – 2022_
-
----
-
-## 💡 Projects
-
-| Project       | Description                                                                 | Stack                             |
-|---------------|-----------------------------------------------------------------------------|-----------------------------------|
-| [SiriusSoft.uz](https://siriussoft.uz) | Company website for Sirius Innovation                                  | Laravel                          |
-| [Faith.uz](https://faith.uz)         | Automation platform for education centers                              | Laravel                          |
-| [Payday.uz](https://panel.payday.uz) | Face-recognition based attendance system                               | Laravel + React.js               |
 
 ---
 
