@@ -1,49 +1,70 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+# 👋 Hi, I'm Islombek Abduraxmonov
 
-###
+🎯 Back End Developer | Laravel & React Enthusiast  
+📍 Fergana, Uzbekistan  
+📧 Contact: +998 91 115 77 09 | [cv.faith.uz](http://cv.faith.uz)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+---
 
-###
+## 💼 Work Experience
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+**🧑‍💻 Back End Developer – Sirius Innovation**  
+_Fergana, Uzbekistan | May 2021 – Present_  
+- Architecting, developing, and leading scalable software projects  
+- Building robust APIs for frontend and mobile application teams  
+- Using Laravel, MySQL/MariaDB, and modern DevOps tools
 
-###
+**📘 English Teacher – Sejong Language Center**  
+_Fergana, Uzbekistan | Oct 2018 – Sep 2019_  
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
+---
 
-###
+## 🎓 Education
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+- 🎓 **Moscow University for Industry and Finance “Synergy”**  
+  _Digital Economy and Artificial Intelligence | 2023 – 2025_
 
-###
+- 🎓 **Fergana State University**  
+  _BA in Teaching English as a Second/Foreign Language | 2018 – 2022_
 
-<br clear="both">
+---
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+## 💡 Projects
 
-###
+| Project       | Description                                                                 | Stack                             |
+|---------------|-----------------------------------------------------------------------------|-----------------------------------|
+| [SiriusSoft.uz](https://siriussoft.uz) | Company website for Sirius Innovation                                  | Laravel                          |
+| [Faith.uz](https://faith.uz)         | Automation platform for education centers                              | Laravel                          |
+| [Payday.uz](https://panel.payday.uz) | Face-recognition based attendance system                               | Laravel + React.js               |
+
+---
+
+## 🛠️ Tech Stack
+
+- **Backend:** Laravel PHP Framework  
+- **Frontend:** React.js, Redux, React Native, Vue 3  
+- **Databases:** MySQL / MariaDB  
+- **DevOps & Tools:** Git, GitHub, GitLab, Ubuntu Server, Microsoft Office  
+- **Bots:** Telegram Bot Development  
+
+---
+
+## 🌐 Languages
+
+- Uzbek – Professional  
+- English – Fluent  
+- Russian – Intermediate  
+
+---
+
+## 📊 GitHub Stats
+
+![Islombek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=islombekdev&show_icons=true&theme=radical)
+
+---
+
+## 🔗 Let's Connect
+
+- [LinkedIn](#) *(add your LinkedIn URL here)*  
+- [Personal Website](http://cv.faith.uz)
+
