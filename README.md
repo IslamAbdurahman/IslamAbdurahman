@@ -35,7 +35,7 @@ _Fergana, Uzbekistan | Oct 2018 – Sep 2019_
 |---------------|-----------------------------------------------------------------------------|-----------------------------------|
 | [SiriusSoft.uz](https://siriussoft.uz) | Company website for Sirius Innovation                                  | Laravel                          |
 | [Faith.uz](https://faith.uz)         | Automation platform for education centers                              | Laravel                          |
-| [Payday.uz](https://panel.payday.uz) | Face-recognition based attendance system                               | Laravel + React.js               |
+| [Payday.uz](https://payday.uz) | Face-recognition based attendance system                               | Laravel + React.js               |
 
 ---
 
@@ -65,6 +65,5 @@ _Fergana, Uzbekistan | Oct 2018 – Sep 2019_
 
 ## 🔗 Let's Connect
 
-- [LinkedIn](#) *(add your LinkedIn URL here)*  
+- [LinkedIn](#) *(Add your LinkedIn link here)*  
 - [Personal Website](http://cv.faith.uz)
-
