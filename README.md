@@ -56,7 +56,7 @@
 | [SiriusSoft.uz](https://siriussoft.uz) | Company website for Sirius Innovation                                  | Laravel                          |
 | [Faith.uz](https://faith.uz)         | Automation platform for education centers                              | Laravel                          |
 | [Payday.uz](https://payday.uz) | Face-recognition based attendance system                               | Laravel + React.js               |
-| [YouNine.uz](https://younine.uz) | Practice IELTS on a real computer-based simulator.                               | Laravel + React.js               |
+| [Mynine.uz](https://mynine.uz) | Practice IELTS on a real computer-based simulator.                               | Laravel + React.js               |
 
 
 ---
