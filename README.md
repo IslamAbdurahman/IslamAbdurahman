@@ -33,7 +33,7 @@
 | [Mynine.uz](https://mynine.uz) | Practice IELTS on a real computer-based simulator.                               | Laravel + React.js               |
 | [Multitest.uz](https://Multitest.uz) | Practice Multilevel speaking on a real computer-based simulator.                               | Laravel + React.js               |
 | [SchoolDay.uz](https://schoolday.uz) | Maktab va bog'cha davomat tizimi.                               | Laravel + React.js + Hikvision               |
-| [1Call.uz](https://1call.uz) | Call center app.                               | Laravel + React.js + Asterisk             |
+| [1Call.uz](https://1call.uz) | Call center app. Ip-Telefoniya                              | Laravel + React.js + Asterisk             |
 | [Prava24.uz](https://prava24.uz) | Prava testlari uchun telegram mini app                               | Laravel + React.js              |
 
 
