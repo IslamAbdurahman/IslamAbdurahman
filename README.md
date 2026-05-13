@@ -35,6 +35,7 @@
 | [SchoolDay.uz](https://schoolday.uz) | Maktab va bog'cha davomat tizimi.                               | Laravel + React.js + Hikvision               |
 | [1Call.uz](https://1call.uz) | Call center app. Ip-Telefoniya                              | Laravel + React.js + Asterisk             |
 | [Prava24.uz](https://prava24.uz) | Prava testlari uchun telegram mini app                               | Laravel + React.js              |
+| [GsmSms.uz](https://gsmsms.uz) | Gsm modem orqali sms yuborish platformasi                               | Laravel + React.js + Gsm Modem             |
 
 
 ---
